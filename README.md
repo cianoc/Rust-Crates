@@ -33,6 +33,10 @@ https://github.com/kyren/rlua
 
 Safe Lua scripting.
 
+## Audio
+### Org/vorbis
+https://github.com/RustAudio/lewton
+
 ## Video
 ### SMFL Bindings
 https://github.com/jeremyletang/rust-sfml
