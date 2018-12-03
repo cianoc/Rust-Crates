@@ -32,3 +32,6 @@ Procedural sound effects
 https://github.com/kyren/rlua
 
 Safe Lua scripting.
+
+# Investigate
+ lazy_static, log, rand, num, smallvec, serde (+json +yaml), strum, rental, regex, backtrace, itertools, error-chain, sdl2, gl, png, ogg-sys, vorbis-sys, vorbisfile-sys, twox-hash, rlua
