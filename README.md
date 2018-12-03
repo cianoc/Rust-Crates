@@ -41,5 +41,21 @@ https://github.com/RustAudio/lewton
 ### SMFL Bindings
 https://github.com/jeremyletang/rust-sfml
 
+## Iterators
+### itertools
+https://docs.rs/itertools/0.7.11/itertools/
+
+## Randomize
+### Rand
+https://docs.rs/rand/0.6.1/rand/
+
+## Command Line Args
+### Clap
+https://docs.rs/clap/2.32.0/clap/
+
+## Graphics
+### Image
+Working with images (not drawing, but standard decoding/encoding/colorspace/etc).
+
 # Investigate
  lazy_static, log, rand, num, smallvec, serde (+json +yaml), strum, rental, regex, backtrace, itertools, error-chain, sdl2, gl, png, ogg-sys, vorbis-sys, vorbisfile-sys, twox-hash, rlua
