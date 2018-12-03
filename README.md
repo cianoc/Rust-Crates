@@ -57,5 +57,8 @@ https://docs.rs/clap/2.32.0/clap/
 ### Image
 Working with images (not drawing, but standard decoding/encoding/colorspace/etc).
 
+### SVG
+https://github.com/RazrFalcon/resvg
+
 # Investigate
  lazy_static, log, rand, num, smallvec, serde (+json +yaml), strum, rental, regex, backtrace, itertools, error-chain, sdl2, gl, png, ogg-sys, vorbis-sys, vorbisfile-sys, twox-hash, rlua
