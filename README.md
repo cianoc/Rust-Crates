@@ -1,7 +1,32 @@
 # Rust-Crates
 Crates that seem useful to me. Plus links to useful tutorials and stuff. Very personal, probably not useful to anyone else.
 
-## Creating Coding
+## Data Structures
+### Dash Map
+https://crates.io/crates/dashmap
+
+A concurrent hashmap. Focus on speed.
+
+### Static Vec
+https://crates.io/crates/staticvec
+
+Implements a fixed-capacity stack-allocated Vec alternative backed by an array. Supports const. Also has static string support. 
+
+### Generic Array
+https://docs.rs/generic-array/0.13.2/generic_array/
+
+This crate implements a structure that can be used as a generic array type [T; N], where N is an int type.
+
+Good for when you want a generalized struct whose size can be defined at compile time. Particularly useful if you want the array to be part of the struct.
+
+## Generic Programming
+
+### Typenum
+https://docs.rs/typenum/1.11.2/typenum/index.html
+
+This crate allows you to make numbers part of a type. Super useful for generic programming.
+
+## Creative Coding
 ### Noise-RS
 https://github.com/Razaekel/noise-rs
 
