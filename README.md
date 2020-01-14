@@ -26,7 +26,25 @@ https://docs.rs/typenum/1.11.2/typenum/index.html
 
 This crate allows you to make numbers part of a type. Super useful for generic programming.
 
+## Operating System
+
+### Sysinfo
+https://crates.io/crates/sysinfo
+
+Useful for getting system level info (e.g. number of disks, network info, etc). Cross platform.
+
+## Web Front End
+### Yew
+Elm like front end that compiles to Webassembly. One of the more mature options.
+
+https://crates.io/crates/yew
+
 ## Creative Coding
+### 3D Graphics
+https://docs.rs/luminance/0.38.0/luminance/
+
+Easily the best choice for a creative 3D framework. Great tutorial, written by experienced demoer with a Haskell background. Plus fun.
+
 ### Noise-RS
 https://github.com/Razaekel/noise-rs
 
