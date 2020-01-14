@@ -40,10 +40,17 @@ Elm like front end that compiles to Webassembly. One of the more mature options.
 https://crates.io/crates/yew
 
 ## Creative Coding
-### 3D Graphics
+### Luminance
 https://docs.rs/luminance/0.38.0/luminance/
 
 Easily the best choice for a creative 3D framework. Great tutorial, written by experienced demoer with a Haskell background. Plus fun.
+
+### Modulator
+https://github.com/apessino/modulator
+
+Modulators are sources of change over time which exist independently of the parameters they affect, their destinations.
+
+The architecture presented here was inspired, in part, by the world of audio synthesis, so let us introduce the main concepts by drawing a parallel to it.
 
 ### Noise-RS
 https://github.com/Razaekel/noise-rs
